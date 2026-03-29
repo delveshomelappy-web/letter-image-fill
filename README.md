@@ -1,32 +1,50 @@
-# Letter Image Fill
-
-## Overview
-The Letter Image Fill project provides an innovative way to fill letters with images, enabling a visually appealing representation of text in various applications, such as graphic design, web development, and presentations.
+# Project Documentation
 
 ## Features
-- **Image Fill**: Fill any text with selected images or patterns.
-- **Customizability**: Adjust the scale, position, and rotation of images within letters.
-- **Multiple Formats**: Supports various image formats, including JPEG, PNG, and SVG.
-- **Interactive UI**: User-friendly interface for easy implementation and adjustments.
+- Comprehensive project documentation
+- User-friendly interfaces
+- Responsive design
 
 ## Setup Instructions
-1. **Clone the Repository**:  
-   ```bash
+1. Clone the repository:
+   ```sh
    git clone https://github.com/delveshomelappy-web/letter-image-fill.git
+   ```
+2. Navigate to the project directory:
+   ```sh
    cd letter-image-fill
-   ```  
-2. **Install Dependencies**:  
-   Make sure you have Node.js installed, then run:  
-   ```bash
+   ```
+3. Install dependencies:
+   ```sh
    npm install
-   ```  
-3. **Run the Project**:  
-   Start the development server:  
-   ```bash
+   ```
+4. Start the application:
+   ```sh
    npm start
-   ```  
-4. **Open your Browser**:  
-   Go to `http://localhost:3000` to see the application in action.
+   ```
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+## Usage Guide
+- Navigate to `http://localhost:3000` in your browser to access the application.
+- Follow the prompts to use the features of the app.
+
+## Components
+- Header
+- Image Upload
+- Image Processing
+- Footer
+
+## Utilities
+- Image Resizer
+- Color Picker
+- Image Filter
+
+## Technologies
+- React
+- Node.js
+- Express
+- MongoDB
+
+## Future Enhancements
+- Add user authentication
+- Implement advanced image processing features
+- Improve UI/UX design
