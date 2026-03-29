@@ -1,0 +1,19 @@
+.letter-image-fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.letter {
+    font-size: 5rem;
+    font-weight: bold;
+    color: #3498db;
+}
+
+.image {
+    width: 200px;
+    height: auto;
+    margin-left: 20px;
+}
